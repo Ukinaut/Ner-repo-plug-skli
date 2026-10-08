@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mempalace": {
+      "command": "C:\\Users\\Ukina\\AppData\\Roaming\\Python\\Python314\\Scripts\\mempalace-light-mcp.exe",
+      "args": []
+    }
+  }
+}
